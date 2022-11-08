@@ -1,0 +1,43 @@
+h1	{
+	text-align: center;
+	color: #05B475;
+	border: 10px solid tomato;
+}
+#pag1 {
+	font-family: verdana;
+	background: #17C8F3;
+}
+.pag2 {
+	font-family: times new roman;
+	font-size: 120%;
+	background: #154354;
+}
+body {	
+	background: gray;
+
+}
+
+img {
+	height: 1000px;
+	width: 1000px;
+	
+	margin-left: 250px;
+
+}
+
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+	border-color: red;
+}
+
+td {
+	text-align: center;
+}
+
+table {
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
